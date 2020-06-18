@@ -1,0 +1,2 @@
+# elte-szakdolgozat
+Szakdolgozot fejlesztése
